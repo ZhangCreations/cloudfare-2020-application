@@ -1,0 +1,6 @@
+name = "cloudfare-2020-application"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
